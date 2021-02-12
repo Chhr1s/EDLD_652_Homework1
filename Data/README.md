@@ -1,0 +1,2 @@
+# Data
+The data for this project come from the [Open University Learning Analytics](https://analyse.kmi.open.ac.uk/open_dataset) dataset. Please download the data there and place it in this folder. The scripts should then run.
